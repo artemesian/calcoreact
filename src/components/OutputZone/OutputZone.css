@@ -1,0 +1,14 @@
+#output-zone{
+	color: rgba(0,0,0,0.65);
+	font-size: 1.25em;
+	width: 97.2%;
+	height: 70%;
+	border:1.5px solid #ddd;
+	border-radius: 4px;	
+	display: flex;
+	align-items: center;
+	padding:0px 5px;
+	overflow-x: hidden;
+	flex-direction: row-reverse;
+	
+}

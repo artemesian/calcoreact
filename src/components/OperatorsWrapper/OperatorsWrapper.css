@@ -1,0 +1,10 @@
+#operators-wrapper{
+	display: grid;
+	grid-template-columns:1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr;
+	grid-gap: 10px;
+	justify-content: center;
+}
+#operators-wrapper>button{
+	font-size: 1.35em;
+}
