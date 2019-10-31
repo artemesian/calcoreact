@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/calcoreact/static/css/main.f398aad8.chunk.css",
+    "main.js": "/calcoreact/static/js/main.999f9ef3.chunk.js",
+    "main.js.map": "/calcoreact/static/js/main.999f9ef3.chunk.js.map",
+    "runtime-main.js": "/calcoreact/static/js/runtime-main.279ca3b3.js",
+    "runtime-main.js.map": "/calcoreact/static/js/runtime-main.279ca3b3.js.map",
+    "static/js/2.dd124143.chunk.js": "/calcoreact/static/js/2.dd124143.chunk.js",
+    "static/js/2.dd124143.chunk.js.map": "/calcoreact/static/js/2.dd124143.chunk.js.map",
+    "index.html": "/calcoreact/index.html",
+    "precache-manifest.edaeb856a369a28b26eac476f0a31f66.js": "/calcoreact/precache-manifest.edaeb856a369a28b26eac476f0a31f66.js",
+    "service-worker.js": "/calcoreact/service-worker.js",
+    "static/css/main.f398aad8.chunk.css.map": "/calcoreact/static/css/main.f398aad8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.279ca3b3.js",
+    "static/js/2.dd124143.chunk.js",
+    "static/css/main.f398aad8.chunk.css",
+    "static/js/main.999f9ef3.chunk.js"
+  ]
+}
